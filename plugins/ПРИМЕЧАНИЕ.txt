@@ -1,0 +1,16 @@
+Здесь отсутствуют большинство плагинов, в связи с тем, что это является коммерческой тайной и защиты сервера от плагиата и копирования.
+
+Вы имеете полное право рассмотреть и скачать используемые не проприетарные(бесплатные, общедуступные) плагины.
+
+В настоящей сборке имеются плагины, не включенные в данный список:
+devs.beer - ItemsAdder
+Willow Studio - MineRP
+Vulcan AntiCheat
+nulli0n - SunLight
+NightExpress - CoinsEngine
+NightExpress - nightcore
+Willow Studio - Custom Fishing
+NotJustNameplates
+CustomNameplates
+RPGDrops
+SIMCheck
