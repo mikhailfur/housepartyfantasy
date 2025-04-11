@@ -53,7 +53,7 @@ body:
     id: mc_version
     attributes:
       label: Версия клиента Minecraft
-      description: Укажите версию, на которой вы играли (например: 1.20.1 Fabric, 1.19.4 Vanilla)
+      description: "Укажите версию, на которой вы играли (например: 1.20.1 Fabric, 1.19.4 Vanilla)"
       placeholder: 1.21.1 Fabric
     validations:
       required: true
